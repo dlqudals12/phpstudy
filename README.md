@@ -6,3 +6,5 @@
 + url parmeter -> ~~?parameter=...
 + $_GET['name'] -> name이라는 parameter를 받는다.
 - nl2br() -> 줄바꿈이 되어 있으면 자동으로 해줌
++ var_dump ->  데이터 타입과 길이
+- isset -> 값이 있는지 없는지에 따라 Boolean으로 return
