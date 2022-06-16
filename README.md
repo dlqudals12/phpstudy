@@ -8,3 +8,6 @@
 - nl2br() -> 줄바꿈이 되어 있으면 자동으로 해줌
 + var_dump ->  데이터 타입과 길이
 - isset -> 값이 있는지 없는지에 따라 Boolean으로 return
++ if(), while() -> ()안에 변수 $a 로 선언 
+- forech() -> $a의 foreach문 foreach($a as $key)
+- scanfir('dirname') -> 폴더 밑에 파일들을 가져올때 
